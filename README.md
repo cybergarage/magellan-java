@@ -1,7 +1,7 @@
 
 # Magellan for Java
 
-This package is a development package for Java to use Logitech Magellan (Space Mouse) on Java platforms. Please chceck [the download site](https://sourceforge.net/projects/cgvrdrvmagjava/files/) on SourceForge.net to get the package and the samples.
+This package is a development package for Java to use Logitech Magellan (Space Mouse) on Java platforms.
 
 ![magellan](doc/img/vr_magellan.jpg)
 
